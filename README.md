@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://travel-2-fv.netlify.app" target="_blank">
+    <a href="https://travel-agency-2-ui.vercel.app" target="_blank">
       <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Travel Agency</h3>
